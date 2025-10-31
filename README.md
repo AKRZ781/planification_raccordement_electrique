@@ -52,15 +52,6 @@ planification_raccordement_electrique/
    - produire un classement de priorité des bâtiments,  
    - générer les cartes et exporter le rapport .
 
-##  Contribution  
-- Le collaborateur `skandjo` est invité à committer son code dès que prêt.  
-- Après modification :  
-  ```bash
-  git add .
-  git commit -m "Ajout du script principal et du rapport PDF"
-  git push origin main
-  ```  
-- Merci de respecter la structure de dossiers et de documenter toute nouvelle fonction ou script ajouté.
 
 ## 📄 Résultats attendus  
 - Tableau de priorisation des bâtiments : estimation coût/prise + durée/prise.  
